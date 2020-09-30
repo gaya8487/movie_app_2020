@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gaya8487/movie_app_2020/static/css/main.7d4938e5.chunk.css",
+    "main.js": "/gaya8487/movie_app_2020/static/js/main.9808e7c7.chunk.js",
+    "main.js.map": "/gaya8487/movie_app_2020/static/js/main.9808e7c7.chunk.js.map",
+    "runtime-main.js": "/gaya8487/movie_app_2020/static/js/runtime-main.d509b3da.js",
+    "runtime-main.js.map": "/gaya8487/movie_app_2020/static/js/runtime-main.d509b3da.js.map",
+    "static/js/2.8d85ee66.chunk.js": "/gaya8487/movie_app_2020/static/js/2.8d85ee66.chunk.js",
+    "static/js/2.8d85ee66.chunk.js.map": "/gaya8487/movie_app_2020/static/js/2.8d85ee66.chunk.js.map",
+    "index.html": "/gaya8487/movie_app_2020/index.html",
+    "precache-manifest.bb6147b726c720cd6ede3851a93d3f76.js": "/gaya8487/movie_app_2020/precache-manifest.bb6147b726c720cd6ede3851a93d3f76.js",
+    "service-worker.js": "/gaya8487/movie_app_2020/service-worker.js",
+    "static/css/main.7d4938e5.chunk.css.map": "/gaya8487/movie_app_2020/static/css/main.7d4938e5.chunk.css.map",
+    "static/js/2.8d85ee66.chunk.js.LICENSE.txt": "/gaya8487/movie_app_2020/static/js/2.8d85ee66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d509b3da.js",
+    "static/js/2.8d85ee66.chunk.js",
+    "static/css/main.7d4938e5.chunk.css",
+    "static/js/main.9808e7c7.chunk.js"
+  ]
+}
